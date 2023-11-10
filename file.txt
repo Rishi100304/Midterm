@@ -1,2 +1,6 @@
 Hi
 This is midterm file
+Python code:
+a=10
+b=5
+c=a+b
